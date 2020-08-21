@@ -1,4 +1,4 @@
-# kaggle-wheat-detection-compitition
+# kaggle-wheat-detection-compitition (yolov3)
 
 Here is the link of wheat detection compitition: https://www.kaggle.com/c/global-wheat-detection
 
